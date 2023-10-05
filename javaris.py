@@ -1,6 +1,6 @@
 # Author:- Nitay , Yash.........
 # Date:- 21 -07-2023..............
-# Topic:- AI bot TAPU...............
+# Topic:- AI bot...............
 
 import pyttsx3
 import datetime
@@ -34,7 +34,7 @@ def wishMe():
     else:
         speak("Good Evening!")
     
-    speak("I am Tapu how can I help you ")
+    speak("I am intelligent service bot how can I help you ")
 
 def takecommand():
         # take command from mic 
